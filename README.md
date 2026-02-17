@@ -173,7 +173,3 @@ Chatbot: Goodbye!
 
 ---
 
-## License
-
-This project is open-source and available and for education purpose only...
-
