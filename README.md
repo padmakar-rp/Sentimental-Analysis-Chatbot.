@@ -1,7 +1,7 @@
 # Sentimental-Analysis-Chatbot.
 This is a simple Sentiment Analysis Chatbot built using Google Colab. This repository contains the complete project code along with images of the chatbot’s output.
 
-[ CREATED USING GOOGLE COLOB ]
+[ CREATED USING GOOGLE COLAB ]
 
 # Sentiment Analysis Chatbot
 
